@@ -3,6 +3,7 @@
 对字符串进行Huffman编码，得到WPL和各字符编码：
 
 （1）DEAEDDEDBCEEECECDEEDDBEEECEEDEE
+https://github.com/zhuang3346/Huffman_Tree/blob/main/huffman1.png
 
 （2）EEBEACCCCAADACCBCCCCECCCEEECCCE
 
