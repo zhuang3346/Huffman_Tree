@@ -6,6 +6,7 @@
 https://github.com/zhuang3346/Huffman_Tree/blob/main/huffman1.png
 
 （2）EEBEACCCCAADACCBCCCCECCCEEECCCE
+https://github.com/zhuang3346/Huffman_Tree/blob/main/huffman2.png
 
 ---
 
