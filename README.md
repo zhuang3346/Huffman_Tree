@@ -19,4 +19,4 @@ https://github.com/zhuang3346/Huffman_Tree/blob/main/huffman2.png
 答：增加对小写字母的判断，将arr_big[27]修改为arr_big[53]。在统计字符出现次数时用选择结构语句判断是小写还是大写字母，分别进行判断，并得出uniqueChars[]数组，最终仍然将uniqueChars[]数组按照ASCII表的顺序进行排列。
 
 3. 使用画图工具画出上述两个Huffman生成树的生成过程
-答：
+答：这里仅提供实例生成过程分析：https://github.com/zhuang3346/Huffman_Tree/blob/main/huffman_generate.jpg
